@@ -1,0 +1,190 @@
+
+/**/
+body[body_class]{
+    /*background: [color2]!important;*/
+}
+
+body[body_class] *::-webkit-selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+body[body_class] *::-ms-selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+body[body_class] *::-moz-selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+body[body_class] *::selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+
+body[body_class] #blockcart-modal .product-name,
+body[body_class] .nav-item .nav-separtor.active,
+body[body_class] .dropdown:hover > a,
+body[body_class] .contact_link_item i,
+body[body_class] .user-info i,
+body[body_class] .ets_reviewticker .star::after,
+body[body_class] .ets_reviewticker .star.star_on::after,
+body[body_class] .blockcart:hover .checkout_title,
+body[body_class] .nav .dropdown > a,
+body[body_class] .ybc-widget-display-home .item-icon i,
+body[body_class] #footer .ybc-newsletter-popup .alert-success p span,
+body[body_class] .main_color,
+body[body_class] .comments_note div.star:after,
+body[body_class] .ybc_instagram_user,
+body[body_class] .main_color span,
+body[body_class] .main_color,
+body[body_class] .quickview .modal-header button.close:hover,
+body[body_class] .ynpt8 .ynp-input-checkbox .box_input input[type="checkbox"]:checked + span::after,
+body[body_class] .search_icon_toogle:hover,
+body[body_class] .ui-tabs .title_tab .ui-tabs-nav li.ui-tabs-active a,
+body[body_class] .footer-container .links li a::before,
+body[body_class] #header .user-info > a:first-child:hover,
+body[body_class] .cart-subtotals .value,
+body[body_class] .ynpt9 .ynp-input-checkbox .box_input input[type="checkbox"]:checked + span::after,
+body[body_class] .ets_mm_block_content ul li a::before,
+body[body_class] ._desktop_user_info:hover .show_on i,
+body[body_class] .line_sub i{
+    color: [color1];
+}
+
+body[body_class] .custom_theme span,
+body[body_class] .main_color span,
+body[body_class] .main_color{
+    color: [color1]!important; 
+}
+
+
+body[body_class] .ybc-widget-item-link:hover,
+body[body_class] #blockcart-modal .modal-header,
+body[body_class] .scroll_top.show_scroll,
+body[body_class] .custom-radio input[type="radio"]:checked + span,
+body[body_class] .transition_floating .close_menu, 
+body[body_class] .transition_full .close_menu,
+body[body_class] .product-actions .add-to-cart,
+body[body_class] .mls_pag_button.active,
+body[body_class] .plw_content,
+body[body_class] .ynpt6 #ynp-submit.ynp-submit,
+body[body_class] .brand-products a.brand-view-products:hover,
+body[body_class] .ets_purchase_type_list input:checked + .product-thumbnail::before,
+body[body_class].ybc-layout-layouthome2 .mls_slider_running,
+body[body_class] .panel-product-w-custom .wishlist_button_extra:hover,
+body[body_class] #footer .ybc-theme-panel-inner #ybc_tc_float_header li.active,
+body[body_class] .quick-view,
+body[body_class] .highlighted-informations .wishlist a,
+body[body_class] .highlighted-informations .add_to_cart_button .btn.btn-primary,
+body[body_class] .block_newsletter form .newsletter_submit,
+body[body_class] .cart-wishlist-checkout,
+body[body_class]#contact .btn-primary,
+body[body_class] .owl-nav > div,
+body[body_class] .mls_nav > div,
+body[body_class] .ybc-newsletter-popup.ynpt8 .ynp-close.button,
+body[body_class] .homeblog_wrapper .ybc_block_latest_item .ybc-blog-latest-img .post-date,
+body[body_class] .ynpt9 #ynp-submit,body[body_class] .ynpt9 #ynp-close,
+body[body_class] #header .remove-from-cart,
+body[body_class] #ybc-blog-related-products .content_price span.bp-percent-display,
+body[body_class] .type_horizonal .product-images.slick-slider .slick-prev,
+body[body_class] .type_horizonal .product-images.slick-slider .slick-next{
+    border-color: [color1];
+    background-color: [color1];
+}
+body[body_class] .ynpt6 .ynp-email-input{
+    border-bottom-color: [color1];
+}
+body[body_class] .ybc-theme-panel-btn{
+    border-left-color: [color1];
+}
+
+body[body_class] .form-control:focus {
+  outline-color: [color1];
+}
+
+
+
+body[body_class] .mm_has_sub:hover > a:after,
+body[body_class] .pagination a:hover,
+body[body_class] .block-social li a:hover,
+body[body_class] .social-sharing li a:hover,
+body[body_class] .product-flags li.product-discount::before,
+body[body_class] .ets-product-specific .discount-percentage::before,
+body[body_class] .product_thumb_horizontal .js-qv-product-images img.selected{
+    border-color: [color1];
+}
+body[body_class] .cart-preview .cart-products-count{
+    background-color: [color1]
+}
+body[body_class] .owl-nav > div:hover,
+body[body_class] .cart-wishlist-checkout:hover,
+body[body_class] .btn-primary:hover,
+body[body_class] #new_comment_form button:hover,
+body[body_class] .pagination .current a,
+body[body_class] .products-sort-order .select-list:hover,
+body[body_class] .btn-secondary:hover, 
+body[body_class] .btn-tertiary:hover,
+body[body_class] .quick-view:hover,
+body[body_class] .discount-percentage,
+body[body_class] .product-discount,
+body[body_class] .slick-prev:hover,
+body[body_class] .block-categories-custom h3.block-categories-title,
+body[body_class] .slick-next:hover,
+body[body_class] .wishlist .addToWishlist:hover,
+body[body_class] a#wishlist_button:hover,
+body[body_class] .search-widget form button[type="submit"],
+body[body_class] .product-flags li,
+body[body_class] .ynpt8 #ynp-submit.ynp-submit,
+body[body_class] .ybc-blog-form-comment .blog-submit .button{
+    background-color: [color1];
+    border-color: [color1];
+}
+body[body_class] .main-color,
+body[body_class] .main-color span{
+    color: [color1]!important;
+}
+body[body_class] a:not(.btn):hover,
+body[body_class] .block-social li:hover a:before,
+body[body_class] #header .ybc-widget-ybc-custom-4 li a:hover,
+body[body_class] .ybc_coppyright a,
+body[body_class] a:hover,
+body[body_class] .block-categories .collapse-icons .add:hover, 
+body[body_class] .block-categories .collapse-icons .remove:hover,
+body[body_class] .dropdown:hover .expand-more,
+body[body_class] .nav .dropdown:hover > a,
+body[body_class] .ybc-widget-ybc-custom-1  .ybc-widget-title a:hover,
+body[body_class] .product-prices div,
+body[body_class] .category-top-menu-pos > .view > span,
+body[body_class] .product-price,
+body[body_class] .nav-item .nav-link.active, 
+body[body_class] .cart-total .value,
+body[body_class] .user-info a:hover i,
+body[body_class] .ybc-widget-display-home-content .ybc-widget-item-content:hover .item-icon i,
+body[body_class].page-my-account #content .links a:hover i,
+body[body_class] .contact_link_item a:hover i,
+body[body_class] .social-sharing li a:hover:before{
+    color: [color1];
+}
+
+body[body_class] .main_background span{
+     background-color: [color1] !important;
+    border-color: [color1] !important;
+}
+
+body[body_class] .line_sub::before {
+    background: -webkit-linear-gradient(right, [color1], [color2],[color3],[color4]);
+    background: -o-linear-gradient(left, [color1], [color2],[color3],[color4]);
+    background: -moz-linear-gradient(left, [color1], [color2],[color3],[color4]);
+    background: linear-gradient(to left,[color1], [color2],[color3],[color4]);
+}
+
+body[body_class] .line_sub::after {
+    background: -webkit-linear-gradient(left, [color1], [color2],[color3],[color4]);
+    background: -o-linear-gradient(right, [color1], [color2],[color3],[color4]);
+    background: -moz-linear-gradient(right, [color1], [color2],[color3],[color4]);
+    background: linear-gradient(to right, [color1], [color2],[color3],[color4]);
+}

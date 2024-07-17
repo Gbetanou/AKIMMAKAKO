@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockwishlist</name>
+    <displayName><![CDATA[Liste d&#039;envies]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[Permettez &agrave; vos clients de cr&eacute;er des listes de souhaits et d&#039;enregistrer leurs produits pr&eacute;f&eacute;r&eacute;s pour plus tard.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

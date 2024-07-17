@@ -1,0 +1,39 @@
+
+#search_widget form i.clear {
+    right: 15px;
+    display: none;
+}
+.ui-autocomplete.searchbar-autocomplete {
+    width: 100%;
+    min-height: 100%;
+    border: none;
+}
+
+.ui-autocomplete.searchbar-autocomplete li a, .ui-autocomplete.searchbar-autocomplete li a.ui-state-focus {
+    padding: 8px 15px;
+    overflow: auto;
+    border: none;
+    background: none;
+    margin: auto;
+    border-radius: 0;
+}
+
+.ui-autocomplete.searchbar-autocomplete li a:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+.ui-autocomplete.searchbar-autocomplete li a .autocomplete-thumbnail {
+    float: left;
+    width: 50px;
+    height: auto;
+    margin-right: 8px;
+}
+
+@media only screen and (min-width: 768px) {
+    .ui-autocomplete.searchbar-autocomplete {
+        width: 400px;
+        min-height: auto;
+        left: auto;
+    }
+}

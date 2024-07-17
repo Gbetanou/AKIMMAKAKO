@@ -1,0 +1,7 @@
+imports:
+  - { resource: ../common.yml }
+  - { resource: accounts.yml }
+  - { resource: builder.yml }
+  - { resource: installer.yml }
+  - { resource: product_filter.yml }
+  - { resource: provider.yml }

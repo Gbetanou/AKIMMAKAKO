@@ -1,0 +1,39 @@
+<?php //PrestaShop%255CModule%255CPsxDesign%255CEntity%255CPsxdesignColor%2524variableType
+
+return [PHP_INT_MAX, static function () { return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+    $o = [
+        clone (($p = &\Symfony\Component\VarExporter\Internal\Registry::$prototypes)['Doctrine\\ORM\\Mapping\\Column'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\Column')),
+        clone $p['Doctrine\\ORM\\Mapping\\Column'],
+    ],
+    null,
+    [
+        'stdClass' => [
+            'type' => [
+                'string',
+                'string',
+            ],
+            'length' => [
+                64,
+            ],
+            'precision' => [
+                null,
+                null,
+            ],
+            'scale' => [
+                null,
+                null,
+            ],
+            'name' => [
+                1 => 'variable_type',
+            ],
+            'columnDefinition' => [
+                1 => '\'css_selector\', \'scss_variable\', \'css_variable\'',
+            ],
+        ],
+    ],
+    [
+        $o[0],
+        $o[1],
+    ],
+    []
+); }];

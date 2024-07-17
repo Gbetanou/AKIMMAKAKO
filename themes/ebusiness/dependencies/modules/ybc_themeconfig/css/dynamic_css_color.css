@@ -1,0 +1,106 @@
+
+/**/
+body[body_class]{
+    /*background: [color2]!important;*/
+}
+
+body[body_class] *::-webkit-selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+body[body_class] *::-ms-selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+body[body_class] *::-moz-selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+body[body_class] *::selection{
+    background-color: [color1];
+    color: #ffffff;
+}
+
+body[body_class] a:not(.btn):hover,
+body[body_class] #header .ybc-widget-ybc-custom-4 li a:hover,
+body[body_class] .ybc_coppyright a,
+body[body_class] .product-price-and-shipping,
+body[body_class] #header a:hover,
+body[body_class] .search_icon_toogle:hover,
+body[body_class] #blockcart-modal .product-name,
+body[body_class] .product-price,
+body[body_class] .nav-item .nav-link.active, 
+body[body_class] .nav-item .nav-separtor.active,
+body[body_class] .cart-total .value,
+body[body_class] .star.star_on,
+body[body_class] .star,
+body[body_class] .star-on,
+body[body_class] .star_on,
+body[body_class] div.star.star_hover:after,
+body[body_class] .block-categories .collapse-icons .add:hover, 
+body[body_class] .block-categories .collapse-icons .remove:hover,
+body[body_class] .block-social li:hover a:before,
+body[body_class] .dropdown:hover .expand-more,
+body[body_class] .dropdown:hover > a,
+body[body_class] .product-prices div,
+body[body_class] .block_newsletter form .newsletter_submit:hover,
+body[body_class] #header.header_v1 .search_icon_toogle:hover, 
+body#index[body_class] .maincontent_v1 .mls_nav > div:hover,
+body[body_class] .comments_note div.star.star_on:after,
+body[body_class] .mm_menus_li:hover > a,
+body[body_class] #footer .ybc-newsletter-popup .alert-success p span,
+body[body_class].page-my-account #content .links a:hover i,
+body[body_class] .social-sharing li a:hover:before{
+    color: [color1];
+}
+
+body[body_class] .custom_theme span,
+body[body_class] .main_color span{
+    color: [color1]!important; 
+}
+
+
+body[body_class] .ybc-widget-item-link:hover,
+body[body_class] .cart-preview .cart-products-count,
+body[body_class] .discount-percentage,
+body[body_class] #blockcart-modal .modal-header,
+body[body_class] .search-widget form button[type="submit"]:hover,
+body[body_class] .cart-wishlist-checkout:hover,
+body[body_class] .btn-primary:hover,
+body[body_class] #new_comment_form button:hover,
+body[body_class] .pagination .current a,
+body[body_class] .products-sort-order .select-list:hover,
+body[body_class] .mls_pag_button.active,
+body[body_class] .btn-secondary:hover, 
+body[body_class] .btn-tertiary:hover,
+body[body_class] .scroll_top.show_scroll,
+body[body_class].ybc-layout-layouthome2 .mls_nav > div:hover,
+body[body_class] .custom-radio input[type="radio"]:checked + span,
+body[body_class] a#wishlist_button:hover,
+body[body_class] .ets_purchase_type_list input:checked + .product-thumbnail::before,
+body[body_class].ybc-layout-layouthome2 .mls_slider_running,
+body[body_class] .panel-product-w-custom .wishlist_button_extra:hover,
+body[body_class] #footer .ybc-theme-panel-inner #ybc_tc_float_header li.active{
+    border-color: [color1];
+    background-color: [color1];
+}
+body[body_class] .ybc-theme-panel-btn{
+    border-left-color: [color1];
+}
+
+
+body[body_class] .mm_has_sub:hover > a:after,
+body[body_class] .pagination a:hover,
+body[body_class] .block-social li a:hover,
+body[body_class] .social-sharing li a:hover,
+body[body_class] .product_thumb_horizontal .js-qv-product-images img.selected,
+body[body_class] .block_newsletter form input[type="text"]:focus{
+    border-color: [color1];
+}
+
+body[body_class] .form-control:focus {
+  outline-color: [color1];
+}

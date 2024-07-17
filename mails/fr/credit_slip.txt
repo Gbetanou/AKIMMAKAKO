@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Identifiant de commande {order_name} - Avoir
+
+Un avoir a été généré à votre nom relatif à votre commande ayant pour référence {order_name}.
+
+Pour accéder à cet avoir et le télécharger, rendez-vous dans la section [Avoirs]({history_url}) de votre compte client sur notre boutique.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)
